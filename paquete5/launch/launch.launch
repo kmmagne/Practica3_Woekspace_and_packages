@@ -1,0 +1,8 @@
+<launch>
+    <node name="cod1_int_pub5" pkg="paquete5" type="cod1_int_pub5.py"/>
+    <node name="cod2_int_pub5" pkg="paquete5" type="cod2_int_pub5.py"/>
+    <node name="cod3_int_point_sp5" pkg="paquete5" type="cod3_int_point_sp5.py"/>
+    <node name="cod4_point_sub5" pkg="paquete5" type="cod4_point_sub5.py"/>
+    <node name="cod5_qua_sub5" pkg="paquete5" type="cod5_qua_sub5.py"/>
+    <node name="cod6_twist_sub5" pkg="paquete5" type="cod6_twist_sub5.py"/>
+</launch>

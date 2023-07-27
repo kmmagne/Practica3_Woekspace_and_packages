@@ -1,0 +1,5 @@
+<launch>
+    <node name="cod1_float_pub2" pkg="paquete2" type="cod1_float_pub2.py"/>
+    <node name="cod2_float_sp2" pkg="paquete2" type="cod2_float_sp2.py"/>
+    <node name="cod3_float_sub2" pkg="paquete2" type="cod3_float_sub2.py"/>
+</launch>
